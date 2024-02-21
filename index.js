@@ -4,4 +4,4 @@ function getName(){
 }
 
 getName();
-console.log()
+console.log(x)
